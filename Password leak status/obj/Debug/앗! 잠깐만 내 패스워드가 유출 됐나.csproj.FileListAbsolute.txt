@@ -1,0 +1,14 @@
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 유출 됐나.csprojAssemblyReference.cache
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗__잠깐만_내_패스워드가_유출_됐나.Form1.resources
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 유출 됐나.csproj.GenerateResource.cache
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 유출 됐나.csproj.CoreCompileInputs.cache
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\Newtonsoft.Json.dll
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\Newtonsoft.Json.xml
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 유출 됐나.csproj.CopyComplete
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\앗! 잠깐만 내 패스워드가 안전 하니.exe.config
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\앗! 잠깐만 내 패스워드가 안전 하니.exe
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\bin\Debug\앗! 잠깐만 내 패스워드가 안전 하니.pdb
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗__잠깐만_내_패스워드가_안전_하니.Properties.Resources.resources
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 안전 하니.exe
+C:\Users\김준영\source\repos\앗! 잠깐만 내 패스워드가 유출 됐나\앗! 잠깐만 내 패스워드가 유출 됐나\obj\Debug\앗! 잠깐만 내 패스워드가 안전 하니.pdb
