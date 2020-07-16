@@ -1,5 +1,7 @@
 # Password-leak-status
 
+json.net library download link : https://www.newtonsoft.com/json
+
 GNU GENERAL PUBLIC LICENSE
 
 Version 7, 16 Thurs 2020
